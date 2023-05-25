@@ -22,9 +22,9 @@
 ![image](https://github.com/Gaspair/Gaspair/assets/84362852/ff833b9a-6c0d-4411-af96-6f381e7c4445)
 ![image](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png)
-
+![node-js-javascript-react-express-js-linux-foundation-mongodb-icons](https://github.com/Gaspair/Gaspair/assets/84362852/8f59628a-d97e-45a2-a42f-1b02c8d57066)
 
 <hr>
 
 ### Get in touch: 
-- LinkedIn:https://www.linkedin.com/in/dragos-iulian-baluta-9209b6256/
+- LinkedIn: https://www.linkedin.com/in/dragos-iulian-baluta-9209b6256/
