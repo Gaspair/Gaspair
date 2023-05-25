@@ -15,7 +15,7 @@
 
 ### Technologies and Tools:
 ![image](https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png)
-![image](https://github.com/Gaspair/Gaspair/assets/84362852/fa25736e-6cba-4428-a50a-8e04905030aa)
+![image](https://github.com/Gaspair/Gaspair/assets/84362852/1159ef8f-1bac-4fb1-9b5e-c9f3671b21f4)
 ![image](https://cdn.iconscout.com/icon/free/png-64/html5-41-1175209.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/css3-10-1175238.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
