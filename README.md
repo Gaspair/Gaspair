@@ -18,12 +18,11 @@
 ![image](https://github.com/Gaspair/Gaspair/assets/84362852/1159ef8f-1bac-4fb1-9b5e-c9f3671b21f4)
 ![image](https://github.com/Gaspair/Gaspair/assets/84362852/562fbd9b-7020-437c-b700-6a5c7ad46957)
 ![image](https://github.com/Gaspair/Gaspair/assets/84362852/84299d63-7d25-484c-9efa-cec3c26aa473)
-![image](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
 ![image](https://github.com/Gaspair/Gaspair/assets/84362852/d7540f83-ef4f-4b7a-a01d-9d87776237ec)
-![image](https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png)
-![image](https://cdn.iconscout.com/icon/free/png-64/gitlab-10-1175217.png)
+![image](https://github.com/Gaspair/Gaspair/assets/84362852/ff833b9a-6c0d-4411-af96-6f381e7c4445)
+![image](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png)
-![image](https://cdn.iconscout.com/icon/free/png-64/webstorm-3521803-2945220.png)
+
 
 <hr>
 
