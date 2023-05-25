@@ -1,6 +1,6 @@
 ## Hi, I'm Dragos 👋
 
-![1 QlIAjfemVgbCpfTWyzP7AA](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a85c7d660e3d4aaebb1f4fb0264c665d~tplv-k3u1fbpfcp-zoom-1.image)
+![image](https://r4.wallpaperflare.com/wallpaper/385/939/726/michelangelo-the-creation-of-adam-fresco-michelangelo-museum-the-sistine-chapel-wallpaper-05ecd075b5e2241a3f99d3e998f2b873.jpg)
 
 ### About Me:
 ⚛️ Fullstack developer 🔜 Software developer <br>
@@ -22,7 +22,6 @@
 ![image](https://github.com/Gaspair/Gaspair/assets/84362852/ff833b9a-6c0d-4411-af96-6f381e7c4445)
 ![image](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png)
-![node-js-javascript-react-express-js-linux-foundation-mongodb-icons](https://github.com/Gaspair/Gaspair/assets/84362852/8f59628a-d97e-45a2-a42f-1b02c8d57066)
 
 <hr>
 
