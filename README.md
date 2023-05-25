@@ -19,7 +19,7 @@
 ![image](https://github.com/Gaspair/Gaspair/assets/84362852/562fbd9b-7020-437c-b700-6a5c7ad46957)
 ![image](https://cdn.iconscout.com/icon/free/png-64/css3-10-1175238.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
-![image](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)
+![image](https://github.com/Gaspair/Gaspair/assets/84362852/d7540f83-ef4f-4b7a-a01d-9d87776237ec)
 ![image](https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/gitlab-10-1175217.png)
 ![image](https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png)
