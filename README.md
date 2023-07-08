@@ -3,7 +3,7 @@
 ![image](https://r4.wallpaperflare.com/wallpaper/385/939/726/michelangelo-the-creation-of-adam-fresco-michelangelo-museum-the-sistine-chapel-wallpaper-05ecd075b5e2241a3f99d3e998f2b873.jpg)
 
 ### About Me:
-⚛️ Fullstack developer 🔜 Software developer <br>
+⚛️ Fullstack/Software developer <br>
 📗 One of my main hobbies is reading <br>
 📈 I'm a crypto/stock market enthusiasts <br>
 🥋 Brazilian Jiu-Jitsu blue belt <br>
