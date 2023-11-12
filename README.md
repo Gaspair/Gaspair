@@ -5,7 +5,6 @@
 ### About Me:
 ⚛️ Fullstack/Software developer <br>
 📗 One of my main hobbies is reading <br>
-📈 I'm a crypto/stock market enthusiasts <br>
 🥋 Brazilian Jiu-Jitsu blue belt <br>
 🧑‍💻 Currently enrolled in JAVA bootcamp <br>
 🤖 AI enthusiast <br>
