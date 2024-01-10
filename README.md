@@ -5,7 +5,6 @@
 ### About Me:
 ⚛️ Fullstack/Software developer <br>
 📗 One of my main hobbies is reading <br>
-🤖 AI enthusiast <br>
 
 
 <hr>
